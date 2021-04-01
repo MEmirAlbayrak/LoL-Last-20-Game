@@ -1,4 +1,4 @@
-# LoL-Last-20-Match
+# LoL-Last-20-Game
 Match History
 
 ```
