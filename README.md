@@ -1,5 +1,5 @@
 # LoL-Last-20-Game
-Match History
+Game History
 
 ```
 pip3 install riotwatcher
