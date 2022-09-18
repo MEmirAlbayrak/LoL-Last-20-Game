@@ -8,7 +8,7 @@ api_key = 'YOUR API KEY'
 watcher = LolWatcher(api_key)
 my_region = 'Region (tr1, eu1 exc.)'
 player = 'PLAYER NAME'
-
+#-----------------------
 me = watcher.summoner.by_name(my_region, player)
 
 my_matches = watcher.match.matchlist_by_account(my_region, me['accountId'])
